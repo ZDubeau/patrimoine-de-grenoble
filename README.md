@@ -2,10 +2,10 @@
 
 ## Install librairies :
 
-pandas
-numpy
-jupyter notebook
-folium
+pandas<br />
+numpy<br />
+jupyter notebook<br />
+folium<br />
 
 ## Virtuelle envitonnement
 
